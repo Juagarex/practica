@@ -6,6 +6,13 @@
 
 
 .Nayibe{
-
-
+ 
+    color: aqua;
+    font-size: 45px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    border: 2px dotted red;
+    min-width:500px ;
+    
 }
