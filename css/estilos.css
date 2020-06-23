@@ -1,5 +1,13 @@
 .Juan{
 
+    color: red;
+    font-size: 45px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    border: 1px solid aqua;
+    min-width: 500px; 
+
 
 }
 
